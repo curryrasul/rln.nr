@@ -1,7 +1,3 @@
-[package]
-name = "rln.nr"
-type = "bin"
-authors = ["Magamedrasul Ibragimov <curryrasul@gmail.com>"]
-license = "Apache-2.0"
-
-[dependencies]
+[workspace]
+members = ["crates/signal", "crates/withdraw"]
+default-member = "crates/signal"

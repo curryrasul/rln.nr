@@ -1,0 +1,6 @@
+[package]
+name = "signal"
+type = "bin"
+authors = ["Magamedrasul Ibragimov <curryrasul@gmail.com>"]
+
+[dependencies]
